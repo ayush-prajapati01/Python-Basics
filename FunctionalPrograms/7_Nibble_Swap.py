@@ -4,7 +4,7 @@
     @Date: 24-07-2024 
     @Last Modified by: Ayush Prajapati
     @Last Modified time: 25-07-2024 
-    @Title : Python program to Swap Nibbles
+    @Title : Python program to Swap Nibbles of a byte
     
 '''
 
