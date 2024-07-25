@@ -30,8 +30,8 @@ def make_move(board, position, current_player):
         Makes a move on the board if the position is valid.
     Parameters:
         board: The current state of the board
-        position: The position (1-9) where the player wants to move
-        current_player: The player making the move ('X' or 'O')
+        position: The position where the player wants to move
+        current_player: The player making the move 
     Return:
         bool: Move Successfull or not
     """
